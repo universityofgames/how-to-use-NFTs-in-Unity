@@ -1,5 +1,5 @@
 # how-to-use-NFTs-in-Unity
-How to use NFTs in Unity based on ChainSafe
+NFTs have recently gained a lot of popularity, being used in various industries such as art, music, and games. In this sample project, we will explore the integration of NFTs and blockchain technology in our Unity project. We hope to provide insights on how to incorporate NFT images from smart contracts into your game.
 
 * * *
 
